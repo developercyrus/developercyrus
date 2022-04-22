@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Been interested in NLP (natural language processing) and ML (machine learning)
+Been interested in NLP (natural language processing), ML (machine learning), and DevOpsSec
 
 ![](https://komarev.com/ghpvc/?username=developercyrus)
